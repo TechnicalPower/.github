@@ -12,9 +12,9 @@ TechnicalPower is a group of passionate software engineers with expertise across
 
 Here's a brief overview of some of our flagship projects:
 
-- **Project Alpha**: A next-generation web application designed to streamline business operations.
-- **Project Beta**: An innovative mobile app that brings smart solutions to everyday problems.
-- **Project Gamma**: A cloud-based platform offering scalable solutions for data management.
+- **Project QUOKKA**: {quokka description}
+- **Project InterfaceHive**: {InterfaceHive Description}
+- **Project Midas**: {Midas description}
 
 For more details on our projects, please visit [our projects page](#).
 
